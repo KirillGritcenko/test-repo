@@ -1,1 +1,2 @@
-<?php echo 'Fail';
+<?php echo 'Fail!';
+
